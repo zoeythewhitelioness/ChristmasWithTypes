@@ -15,7 +15,7 @@ namespace ChristmasWithTypes
 
             //TODO Insert 3 presents you would like for xmas.  They must be strings
             xmas.Presents =  new string[3]{Pony};
-            xmas.Presents = new string[3] {Spongebob Candy};
+            xmas.Presents = new string[3] {SpongebobCandy};
             xmas.Presents = new string[3] {Money};
 
 
