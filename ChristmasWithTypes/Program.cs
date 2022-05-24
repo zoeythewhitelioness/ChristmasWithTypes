@@ -14,9 +14,9 @@ namespace ChristmasWithTypes
             xmas.KrisKringle = null;
 
             //TODO Insert 3 presents you would like for xmas.  They must be strings
-            xmas.Presents =  new string[3]{Pony};
-            xmas.Presents = new string[3] {SpongebobCandy};
-            xmas.Presents = new string[3] {Money};
+            xmas.Presents =  Pony[3]{};
+            xmas.Presents = SpongebobCandy [3] {};
+            xmas.Presents = Money [3] {};
 
 
             //TODO Set the TreeHeight to 10
